@@ -1,0 +1,653 @@
+Country,Year,Population
+Antigua and Barbuda,2000,76016
+Antigua and Barbuda,2001,77212
+Antigua and Barbuda,2002,78295
+Antigua and Barbuda,2003,79300
+Antigua and Barbuda,2004,80336
+Antigua and Barbuda,2005,81465
+Antigua and Barbuda,2006,82704
+Antigua and Barbuda,2007,84026
+Antigua and Barbuda,2008,85397
+Antigua and Barbuda,2009,86746
+Antigua and Barbuda,2010,88028
+Antigua and Barbuda,2011,89253
+Antigua and Barbuda,2012,90409
+Antigua and Barbuda,2013,91516
+Antigua and Barbuda,2014,92562
+Antigua and Barbuda,2015,93566
+Bahamas,2000,298051
+Bahamas,2001,302618
+Bahamas,2002,307660
+Bahamas,2003,313129
+Bahamas,2004,318894
+Bahamas,2005,324859
+Bahamas,2006,331033
+Bahamas,2007,337389
+Bahamas,2008,343681
+Bahamas,2009,349604
+Bahamas,2010,354942
+Bahamas,2011,359577
+Bahamas,2012,363584
+Bahamas,2013,367168
+Bahamas,2014,370633
+Bahamas,2015,374206
+Bahrain,2000,664611
+Bahrain,2001,697545
+Bahrain,2002,735146
+Bahrain,2003,778708
+Bahrain,2004,829844
+Bahrain,2005,889164
+Bahrain,2006,958418
+Bahrain,2007,1035919
+Bahrain,2008,1114641
+Bahrain,2009,1185076
+Bahrain,2010,1240860
+Bahrain,2011,1278151
+Bahrain,2012,1299943
+Bahrain,2013,1315029
+Bahrain,2014,1336075
+Bahrain,2015,1371851
+Barbados,2000,271515
+Barbados,2001,272500
+Barbados,2002,273425
+Barbados,2003,274329
+Barbados,2004,275284
+Barbados,2005,276323
+Barbados,2006,277477
+Barbados,2007,278700
+Barbados,2008,279946
+Barbados,2009,281104
+Barbados,2010,282131
+Barbados,2011,282987
+Barbados,2012,283700
+Barbados,2013,284296
+Barbados,2014,284825
+Barbados,2015,285324
+Bolivia (Plurinational State of),2000,8418264
+Bolivia (Plurinational State of),2001,8580235
+Bolivia (Plurinational State of),2002,8742814
+Bolivia (Plurinational State of),2003,8905823
+Bolivia (Plurinational State of),2004,9069039
+Bolivia (Plurinational State of),2005,9232306
+Bolivia (Plurinational State of),2006,9395446
+Bolivia (Plurinational State of),2007,9558439
+Bolivia (Plurinational State of),2008,9721454
+Bolivia (Plurinational State of),2009,9884781
+Bolivia (Plurinational State of),2010,10048590
+Bolivia (Plurinational State of),2011,10212954
+Bolivia (Plurinational State of),2012,10377676
+Bolivia (Plurinational State of),2013,10542376
+Bolivia (Plurinational State of),2014,10706517
+Bolivia (Plurinational State of),2015,10869730
+Brunei Darussalam,2000,333165
+Brunei Darussalam,2001,340034
+Brunei Darussalam,2002,346782
+Brunei Darussalam,2003,353293
+Brunei Darussalam,2004,359433
+Brunei Darussalam,2005,365114
+Brunei Darussalam,2006,370263
+Brunei Darussalam,2007,374965
+Brunei Darussalam,2008,379421
+Brunei Darussalam,2009,383906
+Brunei Darussalam,2010,388646
+Brunei Darussalam,2011,393688
+Brunei Darussalam,2012,398989
+Brunei Darussalam,2013,404421
+Brunei Darussalam,2014,409769
+Brunei Darussalam,2015,414907
+Côte d'Ivoire,2000,16454668
+Côte d'Ivoire,2001,16853026
+Côte d'Ivoire,2002,17231539
+Côte d'Ivoire,2003,17599610
+Côte d'Ivoire,2004,17970494
+Côte d'Ivoire,2005,18354514
+Côte d'Ivoire,2006,18754916
+Côte d'Ivoire,2007,19171237
+Côte d'Ivoire,2008,19605569
+Côte d'Ivoire,2009,20059147
+Côte d'Ivoire,2010,20532950
+Côte d'Ivoire,2011,21028655
+Côte d'Ivoire,2012,21547188
+Côte d'Ivoire,2013,22087505
+Côte d'Ivoire,2014,22647683
+Côte d'Ivoire,2015,23226143
+Congo,2000,3127411
+Congo,2001,3217933
+Congo,2002,3310387
+Congo,2003,3406922
+Congo,2004,3510468
+Congo,2005,3622775
+Congo,2006,3745141
+Congo,2007,3876119
+Congo,2008,4011486
+Congo,2009,4145391
+Congo,2010,4273731
+Congo,2011,4394844
+Congo,2012,4510198
+Congo,2013,4622761
+Congo,2014,4736974
+Congo,2015,4856095
+Cook Islands,2013,
+Cuba,2000,11126430
+Cuba,2001,11164667
+Cuba,2002,11199651
+Cuba,2003,11229183
+Cuba,2004,11250365
+Cuba,2005,11261582
+Cuba,2006,11261248
+Cuba,2007,11251122
+Cuba,2008,11236971
+Cuba,2009,11226709
+Cuba,2010,11225832
+Cuba,2011,11236670
+Cuba,2012,11257101
+Cuba,2013,11282720
+Cuba,2014,11306902
+Cuba,2015,11324781
+Czechia,2000,10255063
+Czechia,2001,10216605
+Czechia,2002,10196916
+Czechia,2003,10193998
+Czechia,2004,10197101
+Czechia,2005,10211216
+Czechia,2006,10238905
+Czechia,2007,10298828
+Czechia,2008,10384603
+Czechia,2009,10443936
+Czechia,2010,10474410
+Czechia,2011,10496088
+Czechia,2012,10510785
+Czechia,2013,10514272
+Czechia,2014,10525347
+Czechia,2015,10546059
+Democratic People's Republic of Korea,2000,22929075
+Democratic People's Republic of Korea,2001,23132980
+Democratic People's Republic of Korea,2002,23339453
+Democratic People's Republic of Korea,2003,23542426
+Democratic People's Republic of Korea,2004,23732731
+Democratic People's Republic of Korea,2005,23904167
+Democratic People's Republic of Korea,2006,24054864
+Democratic People's Republic of Korea,2007,24188331
+Democratic People's Republic of Korea,2008,24310142
+Democratic People's Republic of Korea,2009,24428341
+Democratic People's Republic of Korea,2010,24548836
+Democratic People's Republic of Korea,2011,24673385
+Democratic People's Republic of Korea,2012,24800612
+Democratic People's Republic of Korea,2013,24929452
+Democratic People's Republic of Korea,2014,25057752
+Democratic People's Republic of Korea,2015,25183833
+Democratic Republic of the Congo,2000,47105826
+Democratic Republic of the Congo,2001,48428545
+Democratic Republic of the Congo,2002,49871666
+Democratic Republic of the Congo,2003,51425580
+Democratic Republic of the Congo,2004,53068880
+Democratic Republic of the Congo,2005,54785903
+Democratic Republic of the Congo,2006,56578037
+Democratic Republic of the Congo,2007,58453683
+Democratic Republic of the Congo,2008,60411195
+Democratic Republic of the Congo,2009,62448574
+Democratic Republic of the Congo,2010,64563854
+Democratic Republic of the Congo,2011,66755153
+Democratic Republic of the Congo,2012,69020747
+Democratic Republic of the Congo,2013,71358807
+Democratic Republic of the Congo,2014,73767447
+Democratic Republic of the Congo,2015,76244544
+Dominica,2013,71016
+Egypt,2000,68831561
+Egypt,2001,70152661
+Egypt,2002,71485043
+Egypt,2003,72826097
+Egypt,2004,74172073
+Egypt,2005,75523569
+Egypt,2006,76873663
+Egypt,2007,78232126
+Egypt,2008,79636079
+Egypt,2009,81134798
+Egypt,2010,82761235
+Egypt,2011,84529250
+Egypt,2012,86422240
+Egypt,2013,88404640
+Egypt,2014,90424654
+Egypt,2015,92442547
+Eritrea,2012,3250099
+Eritrea,2013,3281450
+Eritrea,2014,3311449
+Eritrea,2015,3342818
+Gambia,2000,1317703
+Gambia,2001,1360074
+Gambia,2002,1404261
+Gambia,2003,1449925
+Gambia,2004,1496527
+Gambia,2005,1543741
+Gambia,2006,1591445
+Gambia,2007,1639848
+Gambia,2008,1689285
+Gambia,2009,1740279
+Gambia,2010,1793196
+Gambia,2011,1848147
+Gambia,2012,1905011
+Gambia,2013,1963711
+Gambia,2014,2024042
+Gambia,2015,2085860
+Grenada,2000,102833
+Grenada,2001,103249
+Grenada,2002,103634
+Grenada,2003,104005
+Grenada,2004,104347
+Grenada,2005,104661
+Grenada,2006,104933
+Grenada,2007,105190
+Grenada,2008,105456
+Grenada,2009,105789
+Grenada,2010,106233
+Grenada,2011,106796
+Grenada,2012,107446
+Grenada,2013,108170
+Grenada,2014,108902
+Grenada,2015,109599
+Iran (Islamic Republic of),2000,65623405
+Iran (Islamic Republic of),2001,66449112
+Iran (Islamic Republic of),2002,67284796
+Iran (Islamic Republic of),2003,68122938
+Iran (Islamic Republic of),2004,68951281
+Iran (Islamic Republic of),2005,69762347
+Iran (Islamic Republic of),2006,70554760
+Iran (Islamic Republic of),2007,71336475
+Iran (Islamic Republic of),2008,72120604
+Iran (Islamic Republic of),2009,72924837
+Iran (Islamic Republic of),2010,73762519
+Iran (Islamic Republic of),2011,74634956
+Iran (Islamic Republic of),2012,75539862
+Iran (Islamic Republic of),2013,76481943
+Iran (Islamic Republic of),2014,77465753
+Iran (Islamic Republic of),2015,78492215
+Kuwait,2000,2045123
+Kuwait,2001,2103282
+Kuwait,2002,2136997
+Kuwait,2003,2161626
+Kuwait,2004,2200492
+Kuwait,2005,2270198
+Kuwait,2006,2373672
+Kuwait,2007,2504019
+Kuwait,2008,2656009
+Kuwait,2009,2821045
+Kuwait,2010,2991884
+Kuwait,2011,3168060
+Kuwait,2012,3348853
+Kuwait,2013,3526376
+Kuwait,2014,3690941
+Kuwait,2015,3835591
+Kyrgyzstan,2000,4898400
+Kyrgyzstan,2001,4945100
+Kyrgyzstan,2002,4990700
+Kyrgyzstan,2003,5043300
+Kyrgyzstan,2004,5104700
+Kyrgyzstan,2005,5162600
+Kyrgyzstan,2006,5218400
+Kyrgyzstan,2007,5268400
+Kyrgyzstan,2008,5318700
+Kyrgyzstan,2009,5383300
+Kyrgyzstan,2010,5447900
+Kyrgyzstan,2011,5514600
+Kyrgyzstan,2012,5607200
+Kyrgyzstan,2013,5719600
+Kyrgyzstan,2014,5835500
+Kyrgyzstan,2015,5956900
+Lao People's Democratic Republic,2000,5323700
+Lao People's Democratic Republic,2001,5409582
+Lao People's Democratic Republic,2002,5493246
+Lao People's Democratic Republic,2003,5576640
+Lao People's Democratic Republic,2004,5662208
+Lao People's Democratic Republic,2005,5751676
+Lao People's Democratic Republic,2006,5846074
+Lao People's Democratic Republic,2007,5944948
+Lao People's Democratic Republic,2008,6046620
+Lao People's Democratic Republic,2009,6148623
+Lao People's Democratic Republic,2010,6249165
+Lao People's Democratic Republic,2011,6347567
+Lao People's Democratic Republic,2012,6444530
+Lao People's Democratic Republic,2013,6541304
+Lao People's Democratic Republic,2014,6639756
+Lao People's Democratic Republic,2015,6741164
+Libya,2000,5357891
+Libya,2001,5443248
+Libya,2002,5531089
+Libya,2003,5620547
+Libya,2004,5710154
+Libya,2005,5798614
+Libya,2006,5886872
+Libya,2007,5974787
+Libya,2008,6058748
+Libya,2009,6133984
+Libya,2010,6197663
+Libya,2011,6247439
+Libya,2012,6285750
+Libya,2013,6320359
+Libya,2014,6362037
+Libya,2015,6418315
+Marshall Islands,2013,56938
+Micronesia (Federated States of),2000,107402
+Micronesia (Federated States of),2001,107173
+Micronesia (Federated States of),2002,107030
+Micronesia (Federated States of),2003,106901
+Micronesia (Federated States of),2004,106625
+Micronesia (Federated States of),2005,106129
+Micronesia (Federated States of),2006,105371
+Micronesia (Federated States of),2007,104444
+Micronesia (Federated States of),2008,103543
+Micronesia (Federated States of),2009,102975
+Micronesia (Federated States of),2010,102911
+Micronesia (Federated States of),2011,103450
+Micronesia (Federated States of),2012,104506
+Micronesia (Federated States of),2013,105926
+Micronesia (Federated States of),2014,107446
+Micronesia (Federated States of),2015,108895
+Monaco,2013,36901
+Nauru,2013,10821
+New Zealand,2000,3857700
+New Zealand,2001,3880500
+New Zealand,2002,3948500
+New Zealand,2003,4027200
+New Zealand,2004,4087500
+New Zealand,2005,4133900
+New Zealand,2006,4184600
+New Zealand,2007,4223800
+New Zealand,2008,4259800
+New Zealand,2009,4302600
+New Zealand,2010,4350700
+New Zealand,2011,4384000
+New Zealand,2012,4408100
+New Zealand,2013,4442100
+New Zealand,2014,4509700
+New Zealand,2015,4595700
+Niue,2013,
+Oman,2000,2267973
+Oman,2001,2294962
+Oman,2002,2334858
+Oman,2003,2386166
+Oman,2004,2445517
+Oman,2005,2511251
+Oman,2006,2580758
+Oman,2007,2657158
+Oman,2008,2750963
+Oman,2009,2876186
+Oman,2010,3041434
+Oman,2011,3251108
+Oman,2012,3498029
+Oman,2013,3764805
+Oman,2014,4027260
+Oman,2015,4267348
+Qatar,2000,592468
+Qatar,2001,615012
+Qatar,2002,640868
+Qatar,2003,681788
+Qatar,2004,753334
+Qatar,2005,865416
+Qatar,2006,1022711
+Qatar,2007,1218434
+Qatar,2008,1436665
+Qatar,2009,1654950
+Qatar,2010,1856327
+Qatar,2011,2035871
+Qatar,2012,2196074
+Qatar,2013,2336574
+Qatar,2014,2459198
+Qatar,2015,2565710
+Republic of Korea,2000,47008111
+Republic of Korea,2001,47370164
+Republic of Korea,2002,47644736
+Republic of Korea,2003,47892330
+Republic of Korea,2004,48082519
+Republic of Korea,2005,48184561
+Republic of Korea,2006,48438292
+Republic of Korea,2007,48683638
+Republic of Korea,2008,49054708
+Republic of Korea,2009,49307835
+Republic of Korea,2010,49554112
+Republic of Korea,2011,49936638
+Republic of Korea,2012,50199853
+Republic of Korea,2013,50428893
+Republic of Korea,2014,50746659
+Republic of Korea,2015,51014947
+Republic of Moldova,2000,2923783
+Republic of Moldova,2001,2917252
+Republic of Moldova,2002,2910504
+Republic of Moldova,2003,2902320
+Republic of Moldova,2004,2895147
+Republic of Moldova,2005,2888111
+Republic of Moldova,2006,2880095
+Republic of Moldova,2007,2873429
+Republic of Moldova,2008,2867964
+Republic of Moldova,2009,2864346
+Republic of Moldova,2010,2861487
+Republic of Moldova,2011,2859833
+Republic of Moldova,2012,2859458
+Republic of Moldova,2013,2858692
+Republic of Moldova,2014,2856950
+Republic of Moldova,2015,2834530
+Saint Kitts and Nevis,2013,50331
+Saint Lucia,2000,156729
+Saint Lucia,2001,158179
+Saint Lucia,2002,159392
+Saint Lucia,2003,160530
+Saint Lucia,2004,161816
+Saint Lucia,2005,163417
+Saint Lucia,2006,165381
+Saint Lucia,2007,167639
+Saint Lucia,2008,170011
+Saint Lucia,2009,172221
+Saint Lucia,2010,174085
+Saint Lucia,2011,175544
+Saint Lucia,2012,176646
+Saint Lucia,2013,177513
+Saint Lucia,2014,178296
+Saint Lucia,2015,179126
+Saint Vincent and the Grenadines,2000,107784
+Saint Vincent and the Grenadines,2001,107896
+Saint Vincent and the Grenadines,2002,108097
+Saint Vincent and the Grenadines,2003,108326
+Saint Vincent and the Grenadines,2004,108512
+Saint Vincent and the Grenadines,2005,108614
+Saint Vincent and the Grenadines,2006,108603
+Saint Vincent and the Grenadines,2007,108518
+Saint Vincent and the Grenadines,2008,108393
+Saint Vincent and the Grenadines,2009,108287
+Saint Vincent and the Grenadines,2010,108255
+Saint Vincent and the Grenadines,2011,108316
+Saint Vincent and the Grenadines,2012,108435
+Saint Vincent and the Grenadines,2013,108622
+Saint Vincent and the Grenadines,2014,108861
+Saint Vincent and the Grenadines,2015,109148
+San Marino,2013,108622
+Saudi Arabia,2000,20663843
+Saudi Arabia,2001,21202642
+Saudi Arabia,2002,21805313
+Saudi Arabia,2003,22456649
+Saudi Arabia,2004,23132682
+Saudi Arabia,2005,23816183
+Saudi Arabia,2006,24498310
+Saudi Arabia,2007,25184597
+Saudi Arabia,2008,25888541
+Saudi Arabia,2009,26630303
+Saudi Arabia,2010,27421461
+Saudi Arabia,2011,28267685
+Saudi Arabia,2012,29155187
+Saudi Arabia,2013,30052518
+Saudi Arabia,2014,30916994
+Saudi Arabia,2015,31717667
+Singapore,2000,4027887
+Singapore,2001,4138012
+Singapore,2002,4175950
+Singapore,2003,4114826
+Singapore,2004,4166664
+Singapore,2005,4265762
+Singapore,2006,4401365
+Singapore,2007,4588599
+Singapore,2008,4839396
+Singapore,2009,4987573
+Singapore,2010,5076732
+Singapore,2011,5183688
+Singapore,2012,5312437
+Singapore,2013,5399162
+Singapore,2014,5469724
+Singapore,2015,5535002
+Slovakia,2000,5388720
+Slovakia,2001,5378867
+Slovakia,2002,5376912
+Slovakia,2003,5373374
+Slovakia,2004,5372280
+Slovakia,2005,5372807
+Slovakia,2006,5373054
+Slovakia,2007,5374622
+Slovakia,2008,5379233
+Slovakia,2009,5386406
+Slovakia,2010,5391428
+Slovakia,2011,5398384
+Slovakia,2012,5407579
+Slovakia,2013,5413393
+Slovakia,2014,5418649
+Slovakia,2015,5423801
+Somalia,2000,8872254
+Somalia,2001,9186725
+Somalia,2002,9501342
+Somalia,2003,9815412
+Somalia,2004,10130243
+Somalia,2005,10446863
+Somalia,2006,10763905
+Somalia,2007,11080121
+Somalia,2008,11397188
+Somalia,2009,11717692
+Somalia,2010,12043883
+Somalia,2011,12376302
+Somalia,2012,12715510
+Somalia,2013,13063706
+Somalia,2014,13423576
+Somalia,2015,13797201
+The former Yugoslav republic of Macedonia,2000,2034819
+The former Yugoslav republic of Macedonia,2001,2042842
+The former Yugoslav republic of Macedonia,2002,2048928
+The former Yugoslav republic of Macedonia,2003,2053426
+The former Yugoslav republic of Macedonia,2004,2057048
+The former Yugoslav republic of Macedonia,2005,2060273
+The former Yugoslav republic of Macedonia,2006,2063131
+The former Yugoslav republic of Macedonia,2007,2065426
+The former Yugoslav republic of Macedonia,2008,2067313
+The former Yugoslav republic of Macedonia,2009,2069039
+The former Yugoslav republic of Macedonia,2010,2070741
+The former Yugoslav republic of Macedonia,2011,2072487
+The former Yugoslav republic of Macedonia,2012,2074278
+The former Yugoslav republic of Macedonia,2013,2076067
+The former Yugoslav republic of Macedonia,2014,2077775
+The former Yugoslav republic of Macedonia,2015,2079328
+United Arab Emirates,2000,3134062
+United Arab Emirates,2001,3302719
+United Arab Emirates,2002,3478777
+United Arab Emirates,2003,3711932
+United Arab Emirates,2004,4068570
+United Arab Emirates,2005,4588225
+United Arab Emirates,2006,5300174
+United Arab Emirates,2007,6168838
+United Arab Emirates,2008,7089487
+United Arab Emirates,2009,7917372
+United Arab Emirates,2010,8549988
+United Arab Emirates,2011,8946777
+United Arab Emirates,2012,9141596
+United Arab Emirates,2013,9197910
+United Arab Emirates,2014,9214175
+United Arab Emirates,2015,9262900
+United Kingdom of Great Britain and Northern Ireland,2000,58892514
+United Kingdom of Great Britain and Northern Ireland,2001,59119673
+United Kingdom of Great Britain and Northern Ireland,2002,59370479
+United Kingdom of Great Britain and Northern Ireland,2003,59647577
+United Kingdom of Great Britain and Northern Ireland,2004,59987905
+United Kingdom of Great Britain and Northern Ireland,2005,60401206
+United Kingdom of Great Britain and Northern Ireland,2006,60846820
+United Kingdom of Great Britain and Northern Ireland,2007,61322463
+United Kingdom of Great Britain and Northern Ireland,2008,61806995
+United Kingdom of Great Britain and Northern Ireland,2009,62276270
+United Kingdom of Great Britain and Northern Ireland,2010,62766365
+United Kingdom of Great Britain and Northern Ireland,2011,63258810
+United Kingdom of Great Britain and Northern Ireland,2012,63700215
+United Kingdom of Great Britain and Northern Ireland,2013,64128273
+United Kingdom of Great Britain and Northern Ireland,2014,64602298
+United Kingdom of Great Britain and Northern Ireland,2015,65116219
+United Republic of Tanzania,2000,33499180
+United Republic of Tanzania,2001,34385856
+United Republic of Tanzania,2002,35334788
+United Republic of Tanzania,2003,36337782
+United Republic of Tanzania,2004,37379767
+United Republic of Tanzania,2005,38450320
+United Republic of Tanzania,2006,39548663
+United Republic of Tanzania,2007,40681414
+United Republic of Tanzania,2008,41853944
+United Republic of Tanzania,2009,43073834
+United Republic of Tanzania,2010,44346525
+United Republic of Tanzania,2011,45673338
+United Republic of Tanzania,2012,47052481
+United Republic of Tanzania,2013,48482266
+United Republic of Tanzania,2014,49959822
+United Republic of Tanzania,2015,51482633
+United States of America,2000,282162411
+United States of America,2001,284968955
+United States of America,2002,287625193
+United States of America,2003,290107933
+United States of America,2004,292805298
+United States of America,2005,295516599
+United States of America,2006,298379912
+United States of America,2007,301231207
+United States of America,2008,304093966
+United States of America,2009,306771529
+United States of America,2010,309321666
+United States of America,2011,311556874
+United States of America,2012,313830990
+United States of America,2013,315993715
+United States of America,2014,318301008
+United States of America,2015,320635163
+Venezuela (Bolivarian Republic of),2000,24192446
+Venezuela (Bolivarian Republic of),2001,24646472
+Venezuela (Bolivarian Republic of),2002,25100408
+Venezuela (Bolivarian Republic of),2003,25551624
+Venezuela (Bolivarian Republic of),2004,25996594
+Venezuela (Bolivarian Republic of),2005,26432447
+Venezuela (Bolivarian Republic of),2006,26850194
+Venezuela (Bolivarian Republic of),2007,27247610
+Venezuela (Bolivarian Republic of),2008,27635832
+Venezuela (Bolivarian Republic of),2009,28031009
+Venezuela (Bolivarian Republic of),2010,28439940
+Venezuela (Bolivarian Republic of),2011,28888369
+Venezuela (Bolivarian Republic of),2012,29362449
+Venezuela (Bolivarian Republic of),2013,29783571
+Venezuela (Bolivarian Republic of),2014,30045134
+Venezuela (Bolivarian Republic of),2015,30081829
+Viet Nam,2000,79910412
+Viet Nam,2001,80742499
+Viet Nam,2002,81534407
+Viet Nam,2003,82301656
+Viet Nam,2004,83062821
+Viet Nam,2005,83832661
+Viet Nam,2006,84617540
+Viet Nam,2007,85419591
+Viet Nam,2008,86243413
+Viet Nam,2009,87092252
+Viet Nam,2010,87967651
+Viet Nam,2011,88871561
+Viet Nam,2012,89802487
+Viet Nam,2013,90753472
+Viet Nam,2014,91714595
+Viet Nam,2015,92677076
+Yemen,2000,17409072
+Yemen,2001,17918373
+Yemen,2002,18443691
+Yemen,2003,18985000
+Yemen,2004,19540098
+Yemen,2005,20107409
+Yemen,2006,20687646
+Yemen,2007,21282515
+Yemen,2008,21892146
+Yemen,2009,22516460
+Yemen,2010,23154855
+Yemen,2011,23807588
+Yemen,2012,24473178
+Yemen,2013,25147109
+Yemen,2014,25823485
+Yemen,2015,26497889
