@@ -165,14 +165,6 @@ generate_pair_plots = function(input_dataset,
   }
 }
 
-x_temp = seq(min(life$HIV.AIDS), max(life$HIV.AIDS), length.out = 250)
-newdata = data.frame(HIV.AIDS = x_temp)
-lines(x_temp,
-      predict(lm(
-        Life.expectancy ~ HIV.AIDS +I(HIV.AIDS^0.5), life
-      ), newdata),
-      col = "blue",
-      lwd = 2)
 
 ###################################################################################################################
 # Helper function to plot histograms with density plots
@@ -452,6 +444,10 @@ median_imputer_overall = function(input_dataset, impute_columns, median_predicto
 life = median_imputer_by_country(life, impute_columns, median_predictors_by_country)
 life = median_imputer_overall(life, impute_columns, median_predictors_overall)
 
+
+###################################################################################################################
+# Imputation zero columns to 1 so that the model do not fail while log transformation these variables
+###################################################################################################################
 life[life$infant.deaths==0,"infant.deaths"] = 1
 life[life$Alcohol==0,"Alcohol"] = 1
 life[life$percentage.expenditure==0,"percentage.expenditure"] = 1
@@ -478,21 +474,6 @@ corrplot(
 ###################################################################################################################
 generate_hist_plots(life, predictors)
 generate_pair_plots(life, predictors, 3, 250)
-
-View(generate_summary(life))
-
-x=na.omit(life)
-corrplot(
-  cor(life[2:19]),
-  type = "lower",
-  order = "hclust",
-  tl.col = "black",
-  tl.srt = 60,
-  method = "number"
-)
-
-
-
 
 ###################################################################################################################
 # Drop columns not needed in model
@@ -560,6 +541,8 @@ plot(life.model$Income.composition.of.resources,final.model$residuals)
 plot(life.model$Schooling,final.model$residuals)
 plot(final.model)
 
+
+### DO NOT RUN THIS SECTION YET
 ###################################################################################################################
 # Create training and test datasets
 ###################################################################################################################
