@@ -165,6 +165,15 @@ generate_pair_plots = function(input_dataset,
   }
 }
 
+x_temp = seq(min(life$HIV.AIDS), max(life$HIV.AIDS), length.out = 250)
+newdata = data.frame(HIV.AIDS = x_temp)
+lines(x_temp,
+      predict(lm(
+        Life.expectancy ~ HIV.AIDS +I(HIV.AIDS^0.5), life
+      ), newdata),
+      col = "blue",
+      lwd = 2)
+
 ###################################################################################################################
 # Helper function to plot histograms with density plots
 # input_dataset -> dataset that we want to generate summary stats for
@@ -340,14 +349,6 @@ life = life %>% mutate(percentage.expenditure=replace(percentage.expenditure,per
 quantile(life$percentage.expenditure,probs=seq(0,1,.05))
 life = life %>% mutate(percentage.expenditure=replace(percentage.expenditure,is.na(percentage.expenditure),9.884))
 
-life[life$infant.deaths==0,"infant.deaths"] = 1
-life[life$Alcohol==0,"Alcohol"] = 1
-life[life$percentage.expenditure==0,"percentage.expenditure"] = 1
-life[life$Measles==0,"Measles"] = 1
-life[life$Income.composition.of.resources==0,"Income.composition.of.resources"] = 1
-life[life$Schooling==0,"Schooling"] = 1
-
-
 ###################################################################################################################
 # Fill missing population data from world bank repo 
 # Data Source -> https://databank.worldbank.org/reports.aspx?source=2&series=SP.POP.TOTL&country=
@@ -450,6 +451,13 @@ median_imputer_overall = function(input_dataset, impute_columns, median_predicto
 
 life = median_imputer_by_country(life, impute_columns, median_predictors_by_country)
 life = median_imputer_overall(life, impute_columns, median_predictors_overall)
+
+life[life$infant.deaths==0,"infant.deaths"] = 1
+life[life$Alcohol==0,"Alcohol"] = 1
+life[life$percentage.expenditure==0,"percentage.expenditure"] = 1
+life[life$Measles==0,"Measles"] = 1
+life[life$Income.composition.of.resources==0,"Income.composition.of.resources"] = 1
+life[life$Schooling==0,"Schooling"] = 1
 
 ###################################################################################################################
 # List correlations between predictors. The goal over here is to find predictors that are correlated so that
